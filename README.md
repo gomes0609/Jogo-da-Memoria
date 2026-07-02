@@ -7,7 +7,7 @@ Jogo da memória feito com **HTML, CSS e JavaScript puro** (vanilla JS), com efe
 - Clique em duas cartas para revelá-las.
 - Se os emojis forem iguais, o par permanece revelado.
 - Se forem diferentes, as cartas voltam a ficar viradas para baixo.
-- Você tem no máximo **3 erros**. Ao atingir o limite, o jogo termina e uma mensagem de derrota é exibida.
+- Você tem no máximo **5 erros**. Ao atingir o limite, o jogo termina e uma mensagem de derrota é exibida.
 - Encontre todos os pares antes de errar demais para vencer!
 
 ## 🚀 Tecnologias utilizadas
